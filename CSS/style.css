@@ -1,0 +1,193 @@
+body {
+  background-color: #e8e8e8;
+  margin: 0 20%;
+}
+
+/*header*/
+header {
+  background-color: #fff;
+  margin: 0px 100px;
+}
+
+.logo {
+}
+
+nuv {
+  display: flex;
+}
+
+ul,
+.nuvber {
+  display: flex;
+  margin-left: auto;
+}
+
+.nuvber-list {
+  margin: 0 10px;
+  list-style: none;
+}
+
+a,
+.deco {
+  text-decoration: none;
+}
+
+/*firstview画像　文字を上に載せる　*/
+
+.relative {
+  position: relative;
+}
+
+.relative__img {
+  margin: 0 0 0 auto;
+  display: block;
+  width: 60%;
+}
+
+.absolute {
+  position: absolute;
+  top: 0%;
+  left: 10%;
+  font-size: 40px;
+  color: #c71585;
+  letter-spacing: 5px;
+  font-family: "Indie Flower", cursive;
+}
+
+.absolute-p {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  font-size: 20px;
+  color: #c71585;
+}
+
+.absolute-p-small {
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  font-size: 20px;
+  color: #000;
+}
+
+span {
+  color: #008080;
+}
+/*自分のコード
+.mv_firstview {
+  position: relative;
+  margin: 0 0 0 auto;
+  display: block;
+  width: 50%;
+}
+
+.title {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  font-size: 50px;
+  color: #c71585;
+}
+
+.discription　 {
+  position: absolute;
+  top: 70%;
+  color: #c71585;
+}
+span {
+  color: #008080;
+}
+*/
+
+/*firstview画像　文字を上に載せる　*/
+
+/*header*/
+
+/*News*/
+.news {
+  background-color: #fff;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*全体にかかってる*/
+.content-title-eng {
+  font-size: 10px;
+  font-family: "Indie Flower", cursive;
+  color: #c71585;
+}
+/*全体にかかってる*/
+
+.content-title-line {
+  border-bottom: 3px solid #e8e8e8;
+  margin: 30px 50px;
+}
+
+/*ニュース記事*/
+dl {
+  display: flex;
+  justify-content: center;
+  border-bottom: 2px solid #f5f5f5;
+  color: #696969;
+}
+
+.news-list {
+  letter-spacing: 1px;
+}
+
+.news-tag {
+  display: block;
+  width: 80px;
+  text-align: center;
+  border-radius: 10px;
+  color: #fff;
+  background: #c71585;
+}
+
+/*ニュース記事*/
+/*News*/
+
+/*About*/
+.about {
+  background-color: #f5f5f5;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*About*/
+
+/*Service*/
+.service {
+  background-color: #fff;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*Service*/
+
+/*Blog*/
+.blog {
+  background-color: #f5f5f5;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*Blog*/
+
+/*Company*/
+.company {
+  background-color: #fff;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*Company*/
+
+/*contact*/
+.contact {
+  background-color: #fff;
+  margin: 0px 100px;
+  padding: 0px 30px;
+}
+
+/*contact*/
